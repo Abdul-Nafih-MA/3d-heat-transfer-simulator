@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700&display=swap');
+*{
+    box-sizing:border-box
+} 
+body{
+    margin:0;
+    min-width:320px;
+    background:#071119;
+    color:#e6f0f5;
+    font-family:Manrope,Arial,sans-serif
+} 
+button,input,select{
+    font:inherit
+}
+button{
+    cursor:pointer
+}
